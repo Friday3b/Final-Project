@@ -1,0 +1,1 @@
+{"CustomerCount":0,"TotalEarnings":0,"DiscardedVegetablesCount":0,"CurrentRating":0,"WeeklyReports":[]}

@@ -1,0 +1,57 @@
+{
+  "CustomerCount": 2,
+  "TotalEarnings": 0,
+  "DiscardedVegetablesCount": 0,
+  "CurrentRating": 0,
+  "WeeklyReports": [
+    {
+      "WeekStartDate": "2024-03-14T23:57:28.7911337+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    },
+    {
+      "WeekStartDate": "2024-03-15T23:57:28.7927684+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    },
+    {
+      "WeekStartDate": "2024-03-16T23:57:28.7927697+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    },
+    {
+      "WeekStartDate": "2024-03-17T23:57:28.79277+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    },
+    {
+      "WeekStartDate": "2024-03-18T23:57:28.7927703+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    },
+    {
+      "WeekStartDate": "2024-03-19T23:57:28.7927715+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    },
+    {
+      "WeekStartDate": "2024-03-20T23:57:28.7927717+04:00",
+      "CustomerCount": 2,
+      "TotalEarnings": 562,
+      "DiscardedVegetablesCount": 0,
+      "CurrentRating": 0
+    }
+  ]
+}
