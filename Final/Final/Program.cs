@@ -64,9 +64,9 @@
 
             Random random = new Random();
 
-            int totalDays = 2; // Toplam gün sayısı
+            int totalDays = 2; 
             int minCustomersPerDay = 1;
-            int maxCustomersPerDay = 1; // Rastgele seçilen maksimum müşteri sayısı
+            int maxCustomersPerDay = 1; 
 
             for (int day = 1; day <= totalDays; day++)
             {
@@ -186,7 +186,7 @@
 // kodda deyihsilmeli olanalar 
 
 
-//QLOBAL PROBLME JSON DUSHMEMESIDIR DEYISHIKLIKLERIN ... 
+//QLOBAL PROBLME JSON DUSHMEMESIDIR  BEZIDEYISHIKLIKLERIN ... 
 
 
 
